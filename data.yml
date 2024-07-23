@@ -1,88 +1,547 @@
 landscape:
   - category:
-    name: Category 1
+    name: Experience Composition & Frontend
     subcategories:
       - subcategory:
-        name: Subcategory 1-1
+        name: Frontend as a Service
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 1
-            homepage_url: https://cncf.io
-            logo: bluestonepim.png
-            name: Bluestone PIM
-            project: graduated
+            name: Alokai
+            homepage_url: https://www.alokai.com/
+            logo: alokai.svg
             extra:
+              tag: mach-certified-isv
+
+  - category:
+    name: Content & DXP
+    subcategories:
+      - subcategory:
+        name: CMS
+        items:
+          - item:
+            name: Amplience
+            homepage_url: https://www.amplience.com/
+            logo: amplience.png
+            extra:
+              tag: mach-certified-isv
+      - subcategory:
+        name: DAM
+        items:
+          - item:
+            name: Aprimo
+            homepage_url: https://www.aprimo.com/
+            logo: aprimo.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Cloudinary
+            homepage_url: https://www.cloudinary.com/
+            logo: cloudinary.svg
+            extra:
+              tag: mach-certified-isv
+
+  - category:
+    name: Commerce
+    subcategories:
+      - subcategory:
+        name: Search
+        items:
+          - item:
+            name: Yext
+            homepage_url: https://www.yext.com/
+            logo: yext.svg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Algolia
+            homepage_url: https://www.algolia.com/
+            logo: algolia.svg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Bloomreach
+            homepage_url: https://www.bloomreach.com/
+            logo: bloomreach.svg
+            extra:
+              tag: mach-certified-isv
+
+      - subcategory:
+        name: Commerce
+        items:
+          - item:
+            name: Big Commerce
+            homepage_url: https://www.bigcommerce.com/
+            logo: bigcommerce.svg
+            description: Big Commerce is a leading e-commerce platform providing businesses with the tools to build, innovate, and grow their online presence.
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Bold Commerce
+            homepage_url: https://www.boldcommerce.com/
+            logo: boldcommerce.svg
+            extra:
+              tag: mach-certified-isv
+
+      - subcategory:
+        name: Payment
+        items:
+          - item:
+            name: Adyen
+            homepage_url: https://www.adyen.com/
+            logo: adyen.svg
+            extra:
+              tag: mach-certified-isv
+
+      - subcategory:
+        name: PIM
+        items:
+          - item:
+            name: Akeneo
+            homepage_url: https://www.akeneo.com/
+            logo: akeneo.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Bluestone PIM
+            homepage_url: https://www.bluestonepim.com/
+            logo: bluestonepim.webp
+            extra:
+              tag: mach-certified-isv
+
+  - category:
+    name: Backoffice
+    subcategories:
+      - subcategory:
+        name: ERP
+        items:
+          - item:
+            name: Actindo
+            homepage_url: https://www.actindo.com/en/
+            logo: actindo.webp
+            extra:
+              tag: mach-certified-isv
+
+  - category:
+    name: Customer
+    subcategories:
+      - subcategory:
+        name: Customer Engagement
+        items:
+          - item:
+            name: Braze
+            homepage_url: https://www.braze.com/
+            logo: braze.svg
+            extra:
+              tag: mach-certified-isv
+  # ------------------------------------------------------------
+  - category:
+    name: Bulk
+    subcategories:
+      - subcategory:
+        name: Bulk
+        items:
+          - item:
+            name: Branding Brand
+            homepage_url: https://www.brandingbrand.com/
+            logo: brandingbrand.png
+            extra:
+              tag: mach-certified-isv
 
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 2
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 2
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            name: commercetools
+            homepage_url: https://www.commercetools.com/
+            logo: commercetools.png
+            extra:
+              tag: mach-certified-isv
           - item:
-            description: This is the description of item 3
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 3
-      - subcategory:
-        name: Subcategory 1-2
-        items:
+            name: Constructor
+            homepage_url: https://www.constructor.io/
+            logo: constructor.png
+            extra:
+              tag: mach-certified-isv
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 4
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 4
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            name: Contentful
+            homepage_url: https://www.contentful.com/
+            logo: contentful.png
+            extra:
+              tag: mach-certified-isv
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 5
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 5
-            repo_url: https://github.com/cncf/landscape2
+            name: Contentstack
+            homepage_url: https://www.contentstack.com/
+            logo: contentstack.jpg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Coveo
+            homepage_url: https://www.coveo.com/
+            logo: coveo.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Dynamic Yield
+            homepage_url: https://www.dynamicyield.com/
+            logo: dynamicyield.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Enactor
+            homepage_url: https://www.enactor.com/
+            logo: enactor-logo-dark.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Fluent Commerce
+            homepage_url: https://www.fluentcommerce.com/
+            logo: fluentcommerce.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Hygraph
+            homepage_url: https://www.hygraph.com/
+            logo: hygraph.jpg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: inriver
+            homepage_url: https://www.inriver.com/
+            logo: inriver.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Iterable
+            homepage_url: https://www.iterable.com/
+            logo: iterable.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: KBRW
+            homepage_url: https://www.kbrw.fr/
+            logo: kbrw.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Kibo
+            homepage_url: https://www.kibo.com/
+            logo: kibo.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Klevu
+            homepage_url: https://www.klevu.com/
+            logo: klevu.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Kontent.ai
+            homepage_url: https://www.kontent.ai/
+            logo: kontent.ai.svg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Mapp
+            homepage_url: https://www.mapp.com/
+            logo: mapp.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Marketplacer
+            homepage_url: https://www.marketplacer.com/
+            logo: marketplacer.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Mirakl
+            homepage_url: https://www.mirakl.com/
+            logo: mirakl.svg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: mParticle
+            homepage_url: https://www.mparticle.com/
+            logo: mparticle.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Nacelle
+            homepage_url: https://www.nacelle.com/
+            logo: nacelle.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: NewStore
+            homepage_url: https://www.newstore.com/
+            logo: newstore.jpg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: OneStock
+            homepage_url: https://www.onestock.com/
+            logo: onestock.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Optimove
+            homepage_url: https://www.optimove.com/
+            logo: optimove.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Salsify
+            homepage_url: https://www.salsify.com/
+            logo: salsify.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Sheer ID
+            homepage_url: https://www.sheerid.com/
+            logo: sheerid.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Sitoo
+            homepage_url: https://www.sitoo.com/
+            logo: sitoo.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Storyblok
+            homepage_url: https://www.storyblok.com/
+            logo: storyblok.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Stripe
+            homepage_url: https://www.stripe.com/
+            logo: stripe.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Talon.One
+            homepage_url: https://www.talon.one/
+            logo: talon.one.jpg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Tenovos
+            homepage_url: https://www.tenovos.com/
+            logo: tenovos.jpg
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: VTEX
+            homepage_url: https://www.vtex.com/
+            logo: vtex.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Vue Storefront
+            homepage_url: https://www.vuestorefront.io/
+            logo: vuestorefront.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: Xiatech
+            homepage_url: https://www.xiatech.co.uk/
+            logo: xiatech.png
+            extra:
+              tag: mach-certified-isv
+          - item:
+            name: XTM
+            homepage_url: https://www.xtm.cloud/
+            logo: xtm.png
+            extra:
+              tag: mach-certified-isv
+
   - category:
-    name: Category 2
+    name: Bulk2
     subcategories:
       - subcategory:
-        name: Subcategory 2-1
+        name: Bulk2
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 6
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 6
-            project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            name: AWS
+            homepage_url: https://aws.amazon.com/
+            logo: aws.png
+            extra:
+              tag: mach-certified-enablers
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 7
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 7
-            project: sandbox
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            name: Edgio
+            homepage_url: https://edg.io/
+            logo: edgio.png
+            extra:
+              tag: mach-certified-enablers
           - item:
-            description: This is the description of item 8
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 8
+            name: Fastly
+            homepage_url: https://www.fastly.com/
+            logo: fastly.png
+            extra:
+              tag: mach-certified-enablers
+          - item:
+            name: Google Cloud
+            homepage_url: https://cloud.google.com/
+            logo: googlecloud.png
+            extra:
+              tag: mach-certified-enablers
+          - item:
+            name: MongoDB
+            homepage_url: https://www.mongodb.com/
+            logo: mongodb.png
+            extra:
+              tag: mach-certified-enablers
+          - item:
+            name: Netlify
+            homepage_url: https://www.netlify.com/
+            logo: netlify.png
+            extra:
+              tag: mach-certified-enablers
+          - item:
+            name: Vercel
+            homepage_url: https://vercel.com/
+            logo: vercel.png
+            extra:
+              tag: mach-certified-enablers
+          - item:
+            name: Vultr
+            homepage_url: https://www.vultr.com/
+            logo: vultr.png
+            extra:
+              tag: mach-certified-enablers
+
+  - category:
+    name: Bulk2
+    subcategories:
       - subcategory:
-        name: Subcategory 2-2
+        name: Bulk2
         items:
           - item:
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-            description: This is the description of item 9
-            homepage_url: https://cncf.io
-            logo: cncf.svg
-            name: Item 9
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            name: Agility CMS
+            homepage_url: https://agilitycms.com/
+            logo: agilitycms.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Brink Commerce
+            homepage_url: https://www.brinkcommerce.com/
+            logo: brinkcommerce.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Builder.io
+            homepage_url: https://www.builder.io/
+            logo: builderio.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Commerce Layer
+            homepage_url: https://commercelayer.io/
+            logo: commercelayer.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Conscia
+            homepage_url: https://conscia.ai/
+            logo: conscia.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Creative Force
+            homepage_url: https://creativeforce.io/
+            logo: creativeforce.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Emporix
+            homepage_url: https://www.emporix.com/
+            logo: emporix.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: fulfillmenttools
+            homepage_url: https://www.fulfillmenttools.com/
+            logo: fulfillmenttools.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Mercaux
+            homepage_url: https://mercaux.com/
+            logo: mercaux.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Ninetailed
+            homepage_url: https://ninetailed.io/
+            logo: ninetailed.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Occtoo
+            homepage_url: https://www.occtoo.com/
+            logo: occtoo.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Omnium
+            homepage_url: https://omnium.io/
+            logo: omnium.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Patchworks
+            homepage_url: https://www.patchworks.co.uk/
+            logo: patchworks.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Pimberly
+            homepage_url: https://www.pimberly.com/
+            logo: pimberly.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Pipe 17
+            homepage_url: https://www.pipe17.com/
+            logo: pipe17.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: ReachFive
+            homepage_url: https://reachfive.com/
+            logo: reachfive.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Scaleflex
+            homepage_url: https://www.scaleflex.com/
+            logo: scaleflex.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: StoryStream
+            homepage_url: https://storystream.ai/
+            logo: storystream.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: trbo
+            homepage_url: https://www.trbo.com/
+            logo: trbo.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Uniform
+            homepage_url: https://uniform.dev/
+            logo: uniform.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Voucherify
+            homepage_url: https://www.voucherify.io/
+            logo: voucherify.png
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Wyng
+            homepage_url: https://www.wyng.com/
+            logo: wyng.png
+            extra:
+              tag: mach-certified-startup-isv
