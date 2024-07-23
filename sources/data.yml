@@ -12,8 +12,8 @@ landscape:
             logo: bluestonepim.png
             name: Bluestone PIM
             project: graduated
-            repo_url: https://github.com/cncf/landscape2
-            twitter: https://twitter.com/CloudNativeFdn
+            extra:
+
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 2
