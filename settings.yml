@@ -37,7 +37,7 @@ url: http://127.0.0.1:8000
 #
 # base_path: /<BASE_PATH>
 #
-base_path: /
+base_path: /composable-landscape
 
 # Categories (optional)
 #
