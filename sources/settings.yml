@@ -9,7 +9,7 @@
 #
 # foundation: <FOUNDATION_NAME>
 #
-foundation: DEMO
+foundation: COMPOSABLE
 
 # Url (required)
 #
@@ -131,20 +131,20 @@ featured_items:
 #   logo: <LOGO_URL>  # Foundation logo featured on the footer
 #   text: <TEXT>      # Copyright notice, for example
 #
-footer:
-  links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-    flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
+# footer:
+#   links:
+#     facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
+#     flickr: "https://www.flickr.com/photos/143247548@N03/albums"
+#     github: "https://github.com/cncf"
+#     homepage: "https://cncf.io"
+#     instagram: "https://www.instagram.com/humans.of.cloudnative/"
+#     linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
+#     slack: "https://slack.cncf.io/"
+#     twitch: "https://www.twitch.tv/cloudnativefdn"
+#     twitter: "https://twitter.com/cloudnativefdn"
+#     wechat: "https://www.cncf.io/wechat/"
+#     youtube: "https://www.youtube.com/c/cloudnativefdn"
+#   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
 # Grid items size (optional)
 #
@@ -172,14 +172,14 @@ grid_items_size: large
 #       - <CATEGORY1_NAME>
 #       - <CATEGORY2_NAME>
 #
-groups:
-  - name: Some categories
-    categories:
-      - Category 1
-      - Category 2
-  - name: Only category 2
-    categories:
-      - Category 2
+# groups:
+#   - name: Some categories
+#     categories:
+#       - Category 1
+#       - Category 2
+#   - name: Only category 2
+#     categories:
+#       - Category 2
 
 # Header (optional)
 #
@@ -192,8 +192,8 @@ groups:
 #
 header:
   links:
-    github: "https://github.com/cncf/landscape2"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+    github: "https://github.com/benday280412/composable-landscape"
+  # logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
 
 # Images (optional)
 #

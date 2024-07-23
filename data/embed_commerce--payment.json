@@ -1,0 +1,1 @@
+{"category":{"name":"Commerce","normalized_name":"commerce","subcategories":[{"name":"Payment","normalized_name":"payment"}]},"foundation":"COMPOSABLE","items":[{"category":"Commerce","id":"commerce--payment--adyen","name":"Adyen","logo":"logos/dbbaa0e41754c346be2c9eeb8cc7db96af2d7ee84a94884044b70a99977cd8b6.svg","subcategory":"Payment","website":"https://www.adyen.com/"}]}
