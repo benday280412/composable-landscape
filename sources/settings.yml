@@ -17,7 +17,7 @@ foundation: COMPOSABLE
 #
 # url: <LANDSCAPE_URL>
 #
-url: http://127.0.0.1:8000
+url: https://landscape.composablelandscape.com
 
 # Analytics (optional)
 #
@@ -37,7 +37,7 @@ url: http://127.0.0.1:8000
 #
 # base_path: /<BASE_PATH>
 #
-base_path: /composable-landscape
+base_path: /
 
 # Categories (optional)
 #
