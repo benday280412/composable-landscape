@@ -41,7 +41,7 @@ jobs:
           rm -rf *
           cp -R /tmp/landscape/* .
           cp index.html 404.html
-          echo "landscape.composablelandscape.com" > CNAME
+          echo "view.composablelandscape.com" > CNAME
           git add .
           git commit -m "Build landscape"
           git push origin build
