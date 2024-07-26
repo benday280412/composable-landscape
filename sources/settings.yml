@@ -30,7 +30,7 @@ url: https://landscape.composablelandscape.com
 #
 analytics:
   gtm:
-    container_id: G-QLGJD3967D
+    container_id: GTM-N26M9H9L
 
 # Base path (optional)
 #
@@ -233,9 +233,9 @@ header:
 #   customer_configuration_id: <CUSTOMER_CONFIGURATION_ID>
 #
 
-osano:
-  customer_id: 16BlOzUJY97Qq4Srn
-  customer_configuration_id: cf7c4a2d-5d89-4ef5-8a84-9ebeb167015d
+# osano:
+#   customer_id: 16BlOzUJY97Qq4Srn
+#   customer_configuration_id: cf7c4a2d-5d89-4ef5-8a84-9ebeb167015d
 
 # Screenshot width (optional)
 #
