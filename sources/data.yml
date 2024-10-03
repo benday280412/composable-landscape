@@ -10,6 +10,7 @@ landscape:
             homepage_url: https://www.alokai.com/
             logo: alokai.svg
             description: Alokai provides scalable frontend solutions that enable seamless user experiences across various platforms.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
       - subcategory:
@@ -20,6 +21,7 @@ landscape:
             homepage_url: https://www.wyng.com/
             logo: wyng.svg
             description: Wyng offers an innovative platform for building engaging and interactive customer experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -27,6 +29,7 @@ landscape:
             homepage_url: https://www.builder.io/
             logo: builderio.png
             description: Builder.io is a visual development platform that allows teams to create and optimize digital experiences without coding.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
       - subcategory:
@@ -37,6 +40,7 @@ landscape:
             homepage_url: https://www.xiatech.co.uk/
             logo: xiatech.png
             description: Xiatech specializes in data integration and orchestration solutions to streamline business processes.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -44,6 +48,7 @@ landscape:
             homepage_url: https://conscia.ai/
             logo: conscia.png
             description: Conscia offers intelligent orchestration tools to enhance digital customer experiences through data-driven insights.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -51,6 +56,7 @@ landscape:
             homepage_url: https://www.patchworks.co.uk/
             logo: patchworks.svg
             description: Patchworks provides integration solutions that connect various business systems for seamless data flow.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -58,6 +64,7 @@ landscape:
             homepage_url: https://uniform.dev/
             logo: uniformdev.svg
             description: Uniform offers a platform for orchestration and personalization, ensuring consistent and tailored digital experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -65,6 +72,7 @@ landscape:
             homepage_url: https://www.occtoo.com/
             logo: occtoo.webp
             description: Occtoo enables real-time data orchestration and integration, enhancing digital customer experiences across channels.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -79,6 +87,7 @@ landscape:
             homepage_url: https://www.amplience.com/
             logo: amplience.png
             description: Amplience is a headless CMS that provides tools for creating, managing, and delivering dynamic content.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -86,6 +95,7 @@ landscape:
             homepage_url: https://www.contentful.com/
             logo: contentful.svg
             description: Contentful is a flexible and scalable content platform for building digital experiences across multiple channels.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -93,6 +103,7 @@ landscape:
             homepage_url: https://www.contentstack.com/
             logo: contentstack.svg
             description: Contentstack offers a headless CMS solution that allows businesses to create and manage content with ease.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -100,6 +111,7 @@ landscape:
             homepage_url: https://www.hygraph.com/
             logo: hygraph.png
             description: Hygraph is a powerful headless CMS designed for creating and delivering content-rich digital experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -107,6 +119,7 @@ landscape:
             homepage_url: https://www.kontent.ai/
             logo: kontentai.svg
             description: Kontent.ai provides a modular content platform that supports collaboration and seamless content delivery.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -114,6 +127,7 @@ landscape:
             homepage_url: https://www.storyblok.com/
             logo: storyblok.svg
             description: Storyblok is a headless CMS that enables developers and content teams to create and manage content efficiently.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -121,6 +135,14 @@ landscape:
             homepage_url: https://agilitycms.com/
             logo: agilitycms.svg
             description: Agility CMS offers a content-first headless CMS platform that is highly flexible and scalable.
+            project: mach_alliance_member
+            extra:
+              tag: mach-certified-startup-isv
+          - item:
+            name: Sanity
+            homepage_url: https://www.sanity.io
+            logo: sanity.svg
+            description: Sanity is a real-time content platform that empowers developers to build custom digital experiences.
             extra:
               tag: mach-certified-startup-isv
 
@@ -132,6 +154,7 @@ landscape:
             homepage_url: https://www.aprimo.com/
             logo: aprimo.png
             description: Aprimo provides digital asset management (DAM) solutions to optimize and streamline content operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -139,6 +162,7 @@ landscape:
             homepage_url: https://www.cloudinary.com/
             logo: cloudinary.svg
             description: Cloudinary offers a comprehensive DAM platform for managing, optimizing, and delivering media content.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -146,6 +170,7 @@ landscape:
             homepage_url: https://www.tenovos.com/
             logo: tenovos.svg
             description: Tenovos provides a modern DAM platform designed to help brands manage and activate their digital assets.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -153,6 +178,7 @@ landscape:
             homepage_url: https://www.scaleflex.com/
             logo: scaleflex.svg
             description: Scaleflex offers a flexible and scalable DAM solution to manage and optimize digital assets efficiently.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -167,6 +193,7 @@ landscape:
             homepage_url: https://www.marketplacer.com/
             logo: marketplacer.png
             description: Marketplacer provides a platform to create, manage, and scale online marketplaces.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -174,6 +201,7 @@ landscape:
             homepage_url: https://www.mirakl.com/
             logo: mirakl.png
             description: Mirakl offers a comprehensive solution for launching and managing online marketplaces.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
 
@@ -185,6 +213,7 @@ landscape:
             homepage_url: https://www.yext.com/
             logo: yext.svg
             description: Yext provides advanced search solutions that improve user experience and drive conversions.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -192,6 +221,7 @@ landscape:
             homepage_url: https://www.algolia.com/
             logo: algolia.svg
             description: Algolia offers powerful search and discovery API solutions for creating fast and relevant search experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -199,6 +229,7 @@ landscape:
             homepage_url: https://www.bloomreach.com/
             logo: bloomreach.svg
             description: Bloomreach provides search and content solutions to enhance digital commerce experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -206,6 +237,7 @@ landscape:
             homepage_url: https://www.constructor.io/
             logo: constructor.svg
             description: Constructor delivers AI-powered search and product discovery solutions tailored to e-commerce needs.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -213,6 +245,7 @@ landscape:
             homepage_url: https://www.coveo.com/
             logo: coveo.svg
             description: Coveo offers AI-driven search and recommendation solutions to personalize digital experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -220,6 +253,7 @@ landscape:
             homepage_url: https://www.klevu.com/
             logo: klevu.svg
             description: Klevu provides smart search solutions that enhance product discovery and user engagement.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
 
@@ -231,6 +265,7 @@ landscape:
             homepage_url: https://www.bigcommerce.com/
             logo: bigcommerce.svg
             description: Big Commerce is a leading e-commerce platform providing businesses with the tools to build, innovate, and grow their online presence.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -238,6 +273,7 @@ landscape:
             homepage_url: https://www.boldcommerce.com/
             logo: boldcommerce.svg
             description: Bold Commerce offers e-commerce solutions that enable brands to create customized and scalable online stores.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -245,6 +281,7 @@ landscape:
             homepage_url: https://www.commercetools.com/
             logo: commercetools.svg
             description: commercetools provides a headless commerce platform that supports flexible and scalable e-commerce architectures.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -252,6 +289,7 @@ landscape:
             homepage_url: https://kibocommerce.com/
             logo: kibo.webp
             description: Kibo offers an omnichannel commerce platform that supports unified shopping experiences across channels.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -259,6 +297,7 @@ landscape:
             homepage_url: https://www.nacelle.com/
             logo: nacelle.svg
             description: Nacelle provides a headless commerce solution that enhances site performance and scalability.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -266,6 +305,7 @@ landscape:
             homepage_url: https://www.newstore.com/
             logo: newstore.png
             description: NewStore offers a mobile retail platform that integrates online and offline shopping experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -273,6 +313,7 @@ landscape:
             homepage_url: https://www.vtex.com/
             logo: vtex.svg
             description: VTEX provides a collaborative commerce platform that supports complex and large-scale e-commerce operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -280,6 +321,7 @@ landscape:
             homepage_url: https://www.emporix.com/
             logo: emporix.svg
             description: Emporix offers a cloud-native commerce platform designed for modern e-commerce needs.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -287,6 +329,7 @@ landscape:
             homepage_url: https://commercelayer.io/
             logo: commercelayer.png
             description: Commerce Layer provides a headless commerce platform that allows businesses to manage global e-commerce operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -294,6 +337,7 @@ landscape:
             homepage_url: https://www.brinkcommerce.com/
             logo: brink.svg
             description: Brink Commerce offers a headless commerce solution designed for high-growth and high-performance e-commerce businesses.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -305,6 +349,7 @@ landscape:
             homepage_url: https://www.brandingbrand.com/
             logo: brandingbrand.png
             description: Branding Brand provides mobile commerce solutions that enhance mobile shopping experiences and engagement.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
 
@@ -316,6 +361,7 @@ landscape:
             homepage_url: https://www.adyen.com/
             logo: adyen.png
             description: Adyen offers a comprehensive payment platform that supports global transactions and multiple payment methods.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -323,6 +369,7 @@ landscape:
             homepage_url: https://www.stripe.com/
             logo: stripe.png
             description: Stripe provides payment processing solutions that enable businesses to accept and manage online payments.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
 
@@ -334,6 +381,7 @@ landscape:
             homepage_url: https://www.akeneo.com/
             logo: akeneo.avif
             description: Akeneo offers a product information management (PIM) solution that helps businesses manage and enrich product data.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -341,6 +389,7 @@ landscape:
             homepage_url: https://www.bluestonepim.com/
             logo: bluestonepim.webp
             description: Bluestone PIM provides a cloud-native PIM solution that supports efficient product data management and distribution.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -348,6 +397,7 @@ landscape:
             homepage_url: https://www.inriver.com/
             logo: inriver.png
             description: inriver offers a PIM solution that helps businesses centralize and manage product information for enhanced e-commerce operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -355,6 +405,7 @@ landscape:
             homepage_url: https://www.salsify.com/
             logo: salsify.png
             description: Salsify provides a PIM platform that supports product content management and syndication across multiple channels.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -362,6 +413,7 @@ landscape:
             homepage_url: https://www.pimberly.com/
             logo: pimberly.webp
             description: Pimberly offers a cloud-based PIM solution that helps businesses manage and enrich product data effectively.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -373,6 +425,7 @@ landscape:
             homepage_url: https://www.enactor.co/
             logo: enactor.png
             description: Enactor provides a versatile POS solution that supports seamless in-store transactions and customer experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -380,6 +433,7 @@ landscape:
             homepage_url: https://www.sitoo.com/
             logo: sitoo.svg
             description: Sitoo offers a cloud-based POS system that integrates online and offline sales channels.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -387,6 +441,7 @@ landscape:
             homepage_url: https://mercaux.com/
             logo: mercaux.png
             description: Mercaux provides a mobile POS solution that enhances in-store customer experiences and sales efficiency.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -401,6 +456,7 @@ landscape:
             homepage_url: https://www.actindo.com/en/
             logo: actindo.webp
             description: Actindo offers a cloud-based ERP system that integrates various business processes for improved efficiency.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
       - subcategory:
@@ -411,6 +467,7 @@ landscape:
             homepage_url: https://www.fluentcommerce.com/
             logo: fluent-commerce.svg
             description: Fluent Commerce provides a cloud-based order management system that enhances order fulfillment and inventory management.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -418,6 +475,7 @@ landscape:
             homepage_url: https://www.kbrw.fr/
             logo: kbrw.png
             description: KBRW offers an order management solution that supports complex supply chain and fulfillment processes.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -425,6 +483,7 @@ landscape:
             homepage_url: https://www.onestock-retail.com/en/
             logo: onestock.svg
             description: OneStock provides an omnichannel order management system that optimizes stock and order management.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -432,6 +491,7 @@ landscape:
             homepage_url: https://www.pipe17.com/
             logo: pipe17.webp
             description: Pipe 17 offers an order management platform designed for e-commerce and wholesale businesses to streamline operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -439,6 +499,7 @@ landscape:
             homepage_url: https://www.omnium.no/en/
             logo: omnium.webp
             description: Omnium provides a cloud-based order management solution that enhances order processing and customer satisfaction.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -446,6 +507,7 @@ landscape:
             homepage_url: https://www.fulfillmenttools.com/
             logo: fulfillmenttools.png
             description: fulfillmenttools offers a comprehensive order management system that supports efficient fulfillment operations.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -460,6 +522,7 @@ landscape:
             homepage_url: https://reachfive.com/
             logo: reachfive.webp
             description: ReachFive provides an identity management platform that enhances user authentication and security.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
       - subcategory:
@@ -470,6 +533,7 @@ landscape:
             homepage_url: https://storystream.ai/
             logo: storystream.svg
             description: StoryStream offers a platform for managing and leveraging user-generated content to enhance brand storytelling.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
       - subcategory:
@@ -480,6 +544,7 @@ landscape:
             homepage_url: https://www.mapp.com/
             logo: mapp.svg
             description: Mapp provides a customer data platform that helps businesses understand and engage their customers effectively.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -487,6 +552,7 @@ landscape:
             homepage_url: https://www.mparticle.com/
             logo: mparticle.png
             description: mParticle offers a data platform that centralizes customer data from various sources to drive personalized marketing.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
       - subcategory:
@@ -497,6 +563,7 @@ landscape:
             homepage_url: https://www.braze.com/
             logo: braze.svg
             description: Braze provides a customer engagement platform that supports personalized and omnichannel marketing campaigns.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -504,6 +571,7 @@ landscape:
             homepage_url: https://www.iterable.com/
             logo: iterable.png
             description: Iterable offers a cross-channel marketing platform that enables businesses to engage customers with relevant messages.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
       - subcategory:
@@ -514,6 +582,7 @@ landscape:
             homepage_url: https://www.optimove.com/
             logo: optimove.svg
             description: Optimove provides a loyalty and CRM platform that enhances customer retention and engagement through data-driven insights.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -521,6 +590,7 @@ landscape:
             homepage_url: https://www.talon.one/
             logo: talon-one.svg
             description: Talon.One offers a promotion and loyalty management platform that enables businesses to create customized loyalty programs.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -528,6 +598,7 @@ landscape:
             homepage_url: https://www.sheerid.com/
             logo: sheerid.webp
             description: Sheer ID provides an identity marketing platform that verifies customer eligibility for exclusive offers and discounts.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -535,6 +606,7 @@ landscape:
             homepage_url: https://www.voucherify.io/
             logo: voucherify.svg
             description: Voucherify offers a promotion engine and API that helps businesses manage and track voucher and coupon campaigns.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
       - subcategory:
@@ -545,6 +617,7 @@ landscape:
             homepage_url: https://www.dynamicyield.com/
             logo: dynamicyield.svg
             description: Dynamic Yield provides a personalization platform that enables businesses to deliver tailored customer experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv
           - item:
@@ -552,6 +625,7 @@ landscape:
             homepage_url: https://www.trbo.com/
             logo: trbo.svg
             description: trbo offers a personalization platform that enhances user engagement and conversion through dynamic content.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
           - item:
@@ -559,6 +633,7 @@ landscape:
             homepage_url: https://ninetailed.io/
             logo: ninetailed.svg
             description: Ninetailed provides a headless personalization API that allows businesses to deliver individualized customer experiences.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
 
@@ -573,6 +648,7 @@ landscape:
             homepage_url: https://creativeforce.io/
             logo: creativeforce.webp
             description: Creative Force offers a content production platform that streamlines the workflow for creating digital assets.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-startup-isv
       - subcategory:
@@ -583,6 +659,7 @@ landscape:
             homepage_url: https://aws.amazon.com/
             logo: aws.png
             description: AWS provides a comprehensive suite of cloud services that support scalable and flexible IT infrastructure.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
           - item:
@@ -590,6 +667,7 @@ landscape:
             homepage_url: https://cloud.google.com/
             logo: gcp.png
             description: Google Cloud offers cloud computing services that enable businesses to build, deploy, and scale applications efficiently.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
       - subcategory:
@@ -600,6 +678,7 @@ landscape:
             homepage_url: https://edg.io/
             logo: edgio.svg
             description: Edgio provides a content delivery network (CDN) that enhances website performance and security.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
           - item:
@@ -607,6 +686,7 @@ landscape:
             homepage_url: https://www.fastly.com/
             logo: fastly.png
             description: Fastly offers an edge cloud platform that accelerates content delivery and improves site performance.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
       - subcategory:
@@ -617,6 +697,7 @@ landscape:
             homepage_url: https://www.mongodb.com/
             logo: mongodb.png
             description: MongoDB provides a NoSQL database solution that supports flexible and scalable data management.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
       - subcategory:
@@ -627,6 +708,7 @@ landscape:
             homepage_url: https://www.netlify.com/
             logo: netlify.png
             description: Netlify offers a platform-as-a-service (PaaS) that enables developers to deploy and manage modern web projects efficiently.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
           - item:
@@ -634,6 +716,7 @@ landscape:
             homepage_url: https://vercel.com/
             logo: vercel.png
             description: Vercel provides a platform for frontend developers to deploy and scale web applications with ease.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
           - item:
@@ -641,6 +724,7 @@ landscape:
             homepage_url: https://www.vultr.com/
             logo: vultr.png
             description: Vultr offers cloud compute and storage solutions that support scalable and cost-effective application deployment.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-enablers
       - subcategory:
@@ -651,5 +735,6 @@ landscape:
             homepage_url: https://www.xtm.cloud/
             logo: xtm.webp
             description: XTM provides a translation management system that helps businesses manage multilingual content efficiently.
+            project: mach_alliance_member
             extra:
               tag: mach-certified-isv

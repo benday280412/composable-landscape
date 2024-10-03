@@ -110,9 +110,9 @@ colors:
 featured_items:
   - field: maturity
     options:
-      - value: graduated
+      - value: mach_alliance_member
         order: 1
-        label: Graduated
+        label: MACH Alliance Member
 
 # Footer (optional)
 #
